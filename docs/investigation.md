@@ -22,11 +22,15 @@ Event ID 4624 : successful login by employee01 observed at : 04:25:41
 
 Event ID 4625 : failed login attempt by employee01 at : 04:25:35 reason : Unknown username or Password .
 
-suspicious activity : 
+suspicious activity :
 
 Event ID 4625: Multiple failed logon attempts for user employee01 within a short time window.
 
 Event ID 4624: Successful logon for user employee01 immediately following failed attempts.
+
+
+
+Screenshots supporting the investigation are available in the /screenshots directory.
 
 
 
