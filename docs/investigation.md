@@ -14,7 +14,9 @@ Performed baseline user activity (login, reboot, application use) to observe nor
 
 ## Evidence collected
 
-(Will fill)
+Event ID 4624 : successful login by employee01 observed at : 04:25:41
+
+Event ID 4625 : failed login attempt by employee01 at : 04:25:35 reason : Unknown username or Password .
 
 ## Findings
 
